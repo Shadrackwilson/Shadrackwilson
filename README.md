@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Shadrackwilson
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning python & laravel
+- skill in php,laravel
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on programming
 - 📫 How to reach me 0713383216 shedywilly865@gmail.com shadrackportfolio.com
 - 😄 Pronouns: ...
